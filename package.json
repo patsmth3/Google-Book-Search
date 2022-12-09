@@ -21,7 +21,7 @@
   "dependencies": {
     "app": "^0.1.0",
     "babel": "^6.23.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "heroku": "^7.22.9",
     "javascript": "^1.0.0",
     "mongodb": "^3.2.3",
