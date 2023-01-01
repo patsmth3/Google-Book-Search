@@ -30,7 +30,7 @@
     "node.js": "0.0.0",
     "react": "^16.8.6",
     "reactdom": "^2.0.0",
-    "webpack": "^4.29.6",
+    "webpack": "^5.75.0",
     "yarn": "^1.22.0",
     "@snyk/protect": "latest"
   },
